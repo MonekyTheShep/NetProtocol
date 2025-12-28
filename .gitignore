@@ -1,15 +1,22 @@
-
+/publish
 export/*
+/build
+/Example Usage/build
 /dump/*
 /.dump/*
 local/*
 lib/*
+
+
+/.VSCodeCounter
 
 .vscode/*
 .haxelib/
 *.code-workspace
 
 *.hash
+
+package.zip
 
 .history
 .ionide
@@ -23,8 +30,10 @@ lib/*
 # Ignore Mac DS_Store files
 .DS_Store
 **/.DS_Store
-/build
-/.VSCodeCounter
-/publish
-package.zip
-/Example Usage/build
+
+
+
+
+
+
+
