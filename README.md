@@ -1,2 +1,2 @@
 # NetProtocol
-Socket Library to simulate basic
+Socket Library to simulate basic networking protocols
