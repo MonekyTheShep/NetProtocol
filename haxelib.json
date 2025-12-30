@@ -1,11 +1,11 @@
 {
-  "name": "monosodiumplusplus",
-  "url" : "https://github.com/MonekyTheShep/MonoSodiumPlusPlus",
+  "name": "NetProtocol",
+  "url" : "https://github.com/MonekyTheShep/NetProtocol",
   "license": "MIT",
-  "tags": ["api", "wrapper"],
-  "description": "This library takes data from e926 (defaulted) or e621 (chosen) using HTTP GET Requests",
-  "version": "1.1.4",
+  "tags": ["socket", "networking"],
+  "description": "This library will simulate the basic networking protocols missing using TCP and UDP",
+  "version": "1.0.0",
   "classPath": "src",
-  "releasenote": "Add random post schematic",
+  "releasenote": "First Version",
   "contributors": ["MonekyTheShep"]
 }
